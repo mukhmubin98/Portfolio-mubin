@@ -1,0 +1,21 @@
+#jumbotron {
+    padding-top: 6rem;
+    background-color:#d3e0ea;
+}
+.about {
+    text-align: justify;
+}
+.namaku {
+    font-family: 'Quicksand', sans-serif;
+}
+#project {
+    background-color: #d3e0ea;
+    margin-top: -1px;
+
+}
+#contact{
+    margin-top: -1px;
+}
+section{
+    padding-top: 5rem;
+}
